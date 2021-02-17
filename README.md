@@ -4,7 +4,7 @@ To use these tools, download and copy all of the files in this repository to you
 Default locations:
 * Linux:           /home/login name/.nuke
 * macOS:    /Users/login name/.nuke
-* Windows:     drive letter:\Users\user name\.nuke
+* Windows:     drive letter:\Users\user name\\.nuke
 
 # Tools
 ## jp_mult_sandwich
