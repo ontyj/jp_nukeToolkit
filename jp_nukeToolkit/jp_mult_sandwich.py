@@ -34,6 +34,8 @@ def get_bottom_selected_node(n):
     return bottom_node
 
 def create_mult_sandwich():
+    """Creates unpremult and premult nodes around the currently selected node.
+    """
     selection = nuke.selectedNodes()
 
     if not selection:
