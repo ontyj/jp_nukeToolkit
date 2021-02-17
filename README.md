@@ -8,4 +8,6 @@ Default locations:
 
 # Tools
 ## jp_mult_sandwich
-Creates Unpremult and Premult nodes around the currently selected node. This is most useful when assigned to a hotkey (Default: Shift+Q). You can reassign the hotkey by editing [menu.py](https://github.com/ontyj/jp_nukeToolkit/blob/master/menu.py). 
+Creates Unpremult and Premult nodes around the currently selected node.\
+Most useful when assigned to a hotkey (Default: Shift+Q).\
+You can reassign the hotkey by editing [menu.py](https://github.com/ontyj/jp_nukeToolkit/blob/master/menu.py).\
